@@ -5,10 +5,11 @@ import Cars from './Cars';
 
 function App() {
   return (
-    <div className="container">
-      <Cars />
-      <TrafficSignal />
-    </div>
+
+      <div className="container">
+        <Cars />
+        <TrafficSignal />
+      </div>
   );
 }
 
